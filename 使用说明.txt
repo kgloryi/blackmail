@@ -1,0 +1,13 @@
+Welcome to use this blackmail tool, this tool is used for learning experiments, prohibit the application of illegal events, otherwise the consequences.
+The program entry is: point.py file
+Author: kglory
+
+欢迎使用本勒索工具,本工具用于学习实验，禁止应用非法事件上，否则后果自负.
+程序入口是:Point.py文件
+作者:kglory
+
+If there is an environment problem, you may need to install the following libraries.（如果环境出了问题，你可能需要安装以下库.）
+
+Install using the PIP script that comes with Python（使用python自带的pip脚本进行安装）
+pip install cryptography
+pip install cffi
